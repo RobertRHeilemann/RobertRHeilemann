@@ -5,10 +5,10 @@ Hey there 👋
 I’m Robert, a second-year Electrical Computer Engineering student at the University of Washington. I'm an avid maker obsessed with finding the perfect balance between simplicity and functionality! 
 
 I have many creative outlets that push me to improve myself and learn more about the world. With my projects, I constantly find myself in the cycle of:
-- 1) Researching 📖 to overcome a problem 💻
-- 2) creating a solution 🛠️
-- 3) Realizing it can be done better with my newfound knowledge 🧠
-- 4) Repeating 🔁
+- Researching 📖 to overcome a problem 💻
+- Creating a solution 🛠️
+- With my newfound knowledge, realizing it can be done better  🧠
+- Repeating 🔁
 
 ## 📌 My Projects
 
