@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-I’m Robert, a second-year Electrical Computer Engineering student at the University of Washington. An Avid Maker obsessed with finding the perfect balance between simplicity and functionality! 
+I’m Robert, a second-year Electrical Computer Engineering student at the University of Washington. I'm an avid maker obsessed with finding the perfect balance between simplicity and functionality! 
 
 I have many creative outlets that push me to improve myself and learn more about the world. With my projects, I constantly find myself in the cycle of:
 - 1) Researching 📖 to overcome a problem 💻
