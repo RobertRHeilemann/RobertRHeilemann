@@ -18,8 +18,6 @@ I have many creative outlets that push me to improve myself and learn more about
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=robertrheilemann&repo=ARUW-Projects&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
 <a href="https://github.com/RobertRHeilemann/1999-GS300-Manual-Swap">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=robertrheilemann&repo=1999-GS300-Manual-Swap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
